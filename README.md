@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -36,3 +37,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+=======
+# Syntax-Surfers
+A tool for smart water consumption management. This is the project for the hackathon event eXathon in the computer science departmental fest of eXabyte'25 organized by St. Xavier's College (Autonomous), Kolkata.
+>>>>>>> 256b5a771e5e92546e4b9d44a9b807cb2c6aa924
