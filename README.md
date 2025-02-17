@@ -45,8 +45,10 @@ To create a production version of your app:
 ```bash
 npm run build
 ```
+---
 
-=======
 # Syntax-Surfers
+
+This is a team of three people: Aishwariya Saha, Tanushree Jati, and Anusha Tripathi who gave up their CIA studies and stayed up multiple nights to make this project. 
 
 A tool for smart water consumption management. This is the project for the hackathon event eXathon in the computer science departmental fest of eXabyte'25 organized by St. Xavier's College (Autonomous), Kolkata.
