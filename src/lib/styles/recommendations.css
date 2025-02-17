@@ -1,0 +1,77 @@
+
+
+.recommendations-page {
+    max-width: 1500px;
+    margin: 40px auto;
+    padding: 40px;
+    background: #f5f8fd;
+    border-radius: 16px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+  }
+  
+  
+  .recommendations-page h1 {
+    font-size: 2.4rem;
+    color: #3a3a3a;
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+ 
+  .tips-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+  
+ 
+  .tip-card {
+    padding: 20px;
+    background-color: #fff;
+    border: 2px solid #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+  }
+
+  .tip-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .tip {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .explanation {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  /* Trend Analysis Section */
+  .trend-section {
+    padding-top: 40px;
+    text-align: center;
+  }
+  
+  .trend-section canvas {
+    margin-top: 20px;
+  }
+  
+  .trend-message {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: 20px;
+  }
+  
+  .trend-recommendation {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 10px;
+  }
+
