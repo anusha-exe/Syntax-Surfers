@@ -5,13 +5,13 @@ import { getFirestore, collection, setDoc, addDoc, doc, getDocs } from "firebase
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBLiPgPZ8b3a3uS7EnSiMgNsBXbrbc_Ffk",
+  apiKey: "API_KEY",
   authDomain: "my-water-app-fef92.firebaseapp.com",
   projectId: "my-water-app-fef92",
   storageBucket: "my-water-app-fef92.firebasestorage.app",
-  messagingSenderId: "801263911903",
-  appId: "1:801263911903:web:b1fbac3394a6f2f8ad3a6a",
-  measurementId: "G-BCFGL2062F"
+  messagingSenderId: "ID",
+  appId: "ID",
+  measurementId: "ID"
 };
 
 // Prevent multiple initializations
